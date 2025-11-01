@@ -6,5 +6,4 @@
 
 
 how to contact me ? 
-> i do look through my mails. once a day, so you can mail me. 
-> i am active on substack as well. *sometimes*
+> don't. 
