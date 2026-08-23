@@ -1,5 +1,6 @@
 
-<img width="400" height="587" alt="Untitled design(2)" src="https://github.com/user-attachments/assets/8d4f1119-50f3-42cc-b166-11917640264b" />
+<img width="800" height="436" alt="arwrarwr" src="https://github.com/user-attachments/assets/5cb99140-86b4-4daf-a575-5a418866acb4" />
+
 
 
 .gitignore_d 
